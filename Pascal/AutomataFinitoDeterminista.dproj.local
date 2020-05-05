@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/10/21 04:34:51.632,=C:\Users\isaac\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/21 04:36:22.717,C:\Users\isaac\OneDrive\Documents\Teoria Computacional\AFD\AFD.dfm=C:\Users\isaac\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/21 04:36:22.717,C:\Users\isaac\OneDrive\Documents\Teoria Computacional\AFD\AFD.pas=C:\Users\isaac\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/21 04:37:11.108,C:\Users\isaac\OneDrive\Documents\Teoria Computacional\AFD\AutomataFinitoDeterminista.dproj=C:\Users\isaac\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
