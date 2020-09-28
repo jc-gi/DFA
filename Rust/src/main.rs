@@ -1,8 +1,4 @@
 /* 
- * Universidad Politecnica de San Luis Potosi
- * Teoria Computacional
- * Ingenieria en Tecnologias de la Informacion
- * Jorge Arturo Vargas Rendón 160030
  *  Programa que utiliza metodos para simular cada estado (q's), para la expresion regular:  E(r) = a(bb*)*
  *  Cadenas validas: a, ab, abb
  */
